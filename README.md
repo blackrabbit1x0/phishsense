@@ -36,7 +36,7 @@ A sleek and smart desktop application to detect phishing emails using AI and dee
 1. **Clone the repository:**
 
    ```bash
-   git clone <your_repo_url>
+   git clone (https://github.com/blackrabbit1x0/phishsense.git)
    cd project
    ```
 
@@ -106,7 +106,6 @@ Feel free to use, improve, and share! 🌍
 For feedback, suggestions, or collaboration:  
 **Suyash Shrestha**  
 📧 `xuyash55@gmail.com`  
-📱 `+977-9814261900`
 
 ---
 
